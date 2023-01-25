@@ -1,0 +1,5 @@
+echo "Creating a new project";
+echo "Hello world" > Index.html;
+mkdir $1
+echo "All done!"
+
